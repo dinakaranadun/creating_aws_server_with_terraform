@@ -1,4 +1,4 @@
-# creating_aws_instance _with_terraform and save terraform state in remote.
+# creating_aws_instance _with_terraform and save terraform state in remote or locally.
 
 # 🛠 Terraform Remote Backend Setup Guide
 
